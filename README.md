@@ -1,5 +1,5 @@
 
-Hi! My name is Leonardo, I'm from Brazil . I'm a beginner Back-end developer, currently learning Java.
+Hi! My name is Leonardo, I'm from Brazil . I'm a beginner Front-End developer, currently learning JavaScript.
 
 #### 🌎 "_Simplicity is the soul of efficiency._" 🧠
 
