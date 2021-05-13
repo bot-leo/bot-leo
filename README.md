@@ -1,9 +1,11 @@
 
-Hi! My name is Leonardo, I'm from Brazil . I'm a beginner Front-End developer, currently learning JavaScript.
+Hello.  
+My name is Leonardo, I am a young Web Developer🧑🏻🖱🌎 who seeks challenges and evolutions in the world of Technology💻🖥🚀. 
+I am a great lover of programming and clean codes🧹, currently studying JavaScript and its entire ecosystem. Languages like Java, Python, C/C++ are also very familiar to me, I also possess skills with Database and SQL Languages. Programming paradigms and Framework go hand in hand with me everyday📊📕.
 
-#### 🌎 "_Simplicity is the soul of efficiency._" 🧠
+#### 🌎 "_I am always in search of the evolution of knowledge. Determination and organization are my strengths, I practice my skills daily, motivated by the perfection of solving and problem solving._" 🧠
 
-- 📍 Living in São Paulo
+- 📍 Living in São Paulo - BRAZIL
 - 👨‍💻Sharing a little of my projects here
 
 Reach me out 👇🏻
